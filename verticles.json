@@ -6,7 +6,7 @@
       "config": {
         "port": 9900,
         "es": {
-          "host": "ec2-52-7-137-181.compute-1.amazonaws.com",
+          "host": "localhost",
           "port": 9300,
           "index": "appl",
           "type": "doc",

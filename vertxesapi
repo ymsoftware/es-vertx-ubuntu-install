@@ -30,7 +30,7 @@
 ###
 
 # The directory in which your application is installed
-APPLICATION_DIR="/home/ubuntu/source/es-vertx-ubuntu-install"
+APPLICATION_DIR="/source/es-vertx-ubuntu-install"
 # The fat jar containing your application
 APPLICATION_JAR="search-service-1.0-SNAPSHOT.jar"
 # The application argument such as -cluster -cluster-host ...
