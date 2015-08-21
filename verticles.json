@@ -2,7 +2,7 @@
   "verticles": [
     {
       "id": "org.ap.search.vertx.SearchServiceVerticle",
-      "instances": 4,
+      "instances": 8,
       "config": {
         "port": 9900,
         "es": {
