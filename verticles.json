@@ -12,32 +12,6 @@
           "type": "doc"
         }
       }
-    },
-    {
-      "id": "org.ap.search.vertx.SearchServiceVerticle",
-      "instances": 2,
-      "config": {
-        "port": 9901,
-        "es": {
-          "host": "localhost",
-          "port": 9300,
-          "index": "appl",
-          "type": "doc"
-        }
-      }
-    },
-    {
-      "id": "org.ap.search.vertx.SearchServiceVerticle",
-      "instances": 2,
-      "config": {
-        "port": 9902,
-        "es": {
-          "host": "localhost",
-          "port": 9300,
-          "index": "appl",
-          "type": "doc"
-        }
-      }
     }
   ]
 }
